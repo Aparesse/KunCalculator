@@ -1,3 +1,5 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 # 基准单位 万
 # 当是亿单位时转换
 Y = lambda w: w*(10**4)
